@@ -5,6 +5,7 @@ This project is a simulation of vehicle behavior in a 2D environment. The vehicl
 Table of Contents:
 
 Setup
+
 Usage
 Controls
 Code Structure
